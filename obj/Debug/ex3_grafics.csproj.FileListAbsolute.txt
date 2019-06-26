@@ -1,0 +1,15 @@
+C:\Users\asafl\source\repos\ex3_grafics\ex3_grafics\bin\Debug\ex3_grafics.exe.config
+C:\Users\asafl\source\repos\ex3_grafics\ex3_grafics\bin\Debug\ex3_grafics.exe
+C:\Users\asafl\source\repos\ex3_grafics\ex3_grafics\bin\Debug\ex3_grafics.pdb
+C:\Users\asafl\source\repos\ex3_grafics\ex3_grafics\obj\Debug\ex3_grafics.csprojAssemblyReference.cache
+C:\Users\asafl\source\repos\ex3_grafics\ex3_grafics\obj\Debug\MainWindow.g.cs
+C:\Users\asafl\source\repos\ex3_grafics\ex3_grafics\obj\Debug\App.g.cs
+C:\Users\asafl\source\repos\ex3_grafics\ex3_grafics\obj\Debug\ex3_grafics_MarkupCompile.cache
+C:\Users\asafl\source\repos\ex3_grafics\ex3_grafics\obj\Debug\ex3_grafics_MarkupCompile.lref
+C:\Users\asafl\source\repos\ex3_grafics\ex3_grafics\obj\Debug\MainWindow.baml
+C:\Users\asafl\source\repos\ex3_grafics\ex3_grafics\obj\Debug\ex3_grafics.g.resources
+C:\Users\asafl\source\repos\ex3_grafics\ex3_grafics\obj\Debug\ex3_grafics.Properties.Resources.resources
+C:\Users\asafl\source\repos\ex3_grafics\ex3_grafics\obj\Debug\ex3_grafics.csproj.GenerateResource.cache
+C:\Users\asafl\source\repos\ex3_grafics\ex3_grafics\obj\Debug\ex3_grafics.csproj.CoreCompileInputs.cache
+C:\Users\asafl\source\repos\ex3_grafics\ex3_grafics\obj\Debug\ex3_grafics.exe
+C:\Users\asafl\source\repos\ex3_grafics\ex3_grafics\obj\Debug\ex3_grafics.pdb
